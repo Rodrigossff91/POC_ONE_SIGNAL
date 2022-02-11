@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436345577199",
+    "project_id": "poc-one-signal",
+    "storage_bucket": "poc-one-signal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436345577199:android:b2a35203e5739b83bb851a",
+        "android_client_info": {
+          "package_name": "com.example.poc_one_signal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436345577199-3jt2rvulharh8d562m18vffkpa6jmua7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6A00bAlSduBAc2ODPzXKaFUV0xR20wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436345577199-3jt2rvulharh8d562m18vffkpa6jmua7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
